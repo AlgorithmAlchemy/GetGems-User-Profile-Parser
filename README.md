@@ -1,5 +1,5 @@
 # GetGems-Parser
-Sample - GetGems NFT - Parser
+Sample - GetGems NFT - Парсер
 
 
 ## Установка
