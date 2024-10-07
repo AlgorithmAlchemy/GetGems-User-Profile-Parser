@@ -29,4 +29,4 @@ Install the required Python packages
 ```bash
 pip install selenium
 ```
-# Add a text file wallet.txt with wallet names in the data folder
+ Add a text file wallet.txt with wallet names in the data folder
