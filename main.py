@@ -36,6 +36,7 @@ firefox_options.set_preference("general.platform.override", "Win64")  # Подд
 firefox_options.set_preference("network.http.sendRefererHeader", 0)  # Отключаем отправку заголовков Referer
 
 
+# укажите правильный путь!
 gecko_driver_path = r"E:\Path\to\geckodriver.exe"
 service = Service(executable_path=gecko_driver_path)
 
