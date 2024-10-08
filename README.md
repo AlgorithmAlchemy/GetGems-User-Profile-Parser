@@ -2,6 +2,8 @@
 
 This is a Python-based project that parses user data from [GetGems.io](https://getgems.io/) and stores the results in a SQLite database.
 
+![image](https://github.com/user-attachments/assets/24ece944-c2d5-48e0-a06e-4f37843cf3bf)
+
 ## Features
 - Collects NFT data for users from GetGems.io.
 - Stores data into SQLite database.
